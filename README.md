@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Spring**
 
-- 👨‍💻 All of my projects are available at [https://www.sijanbhandary.com.np/](https://www.sijanbhandary.com.np/)
-
 - 📫 How to reach me **mail@sijanbhandari.com.np**
 
 <h3 align="left">Connect with me:</h3>
