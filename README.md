@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sijanstu" alt="sijanstu" /></a> </p>
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently using **Spring**
 
 - 📫 How to reach me **mail@sijanbhandari.com.np**
 
